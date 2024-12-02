@@ -1,0 +1,10 @@
+[package]
+name = "simple-calculator-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "simple-calculator-rust"
+path = "main.rs"
